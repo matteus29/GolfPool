@@ -1,0 +1,47 @@
+﻿@using Golf.Gallery
+@using Golf.Web.Mvc.Models
+
+@model List<Golf.Web.Mvc.Models.Userboard>
+
+@{
+  ViewBag.Title = "Pool Party Userboard";
+  Layout = "~/Views/Shared/_Layout.cshtml";
+  var tourny = Model.First().Tournament;
+}
+<h2>@tourny.Name</h2>
+
+@foreach (Userboard ub in Model) {
+  <h3 style="padding-top: 40px;">@ub.UserScore.User.Name : <span class="score_under_par-@((ub.UserScore.TotalToPar < 0).ToString())">@ub.UserScore.TotalToPar</span></h3>
+  <table class="board">
+    <tr style="text-decoration: underline;">
+      <th style="text-align: left;">Golfer</th>
+      <th>r1</th>
+      <th>r2</th>
+      <th>r3</th>
+      <th>r4</th>
+      @*<th>Total</th>*@
+    </tr>
+    @foreach (var golferScore in ub.GolferScores) {
+    
+      <tr>
+        <td>
+          <a href="@golferScore.Golfer.Link" target="_blank">
+            @Html.DisplayFor(modelItem => golferScore.Golfer.FullName)
+          </a>
+        </td>
+        <td class="score_under_par-@golferScore.CssClass[0]">@golferScore.Score.Scores[0]</td>
+        <td class="score_under_par-@golferScore.CssClass[1]">@golferScore.Score.Scores[1]</td>
+        <td class="score_under_par-@golferScore.CssClass[2]">@golferScore.Score.Scores[2]</td>
+        <td class="score_under_par-@golferScore.CssClass[3]">@golferScore.Score.Scores[3]</td>
+        @*<td class="score_under_par-@(golferScore.Score.ToPar < 0) total_score" style="border-left:thin solid; border-color:black;">@golferScore.Score.ToPar</td>*@
+      </tr>
+    }
+    <tr style="border-top: thin solid; border-color: black; font-weight: 700;">
+      <td>Best 2 Scores</td>
+      <td class="score_under_par-@((ub.UserScore.RoundScoresToPar[0] < 0).ToString())">@ub.UserScore.RoundScoresToPar[0]</td>
+      <td class="score_under_par-@((ub.UserScore.RoundScoresToPar[1] < 0).ToString())">@ub.UserScore.RoundScoresToPar[1]</td>
+      <td class="score_under_par-@((ub.UserScore.RoundScoresToPar[2] < 0).ToString())">@ub.UserScore.RoundScoresToPar[2]</td>
+      <td class="score_under_par-@((ub.UserScore.RoundScoresToPar[3] < 0).ToString())">@ub.UserScore.RoundScoresToPar[3]</td>
+    </tr>
+  </table>
+}

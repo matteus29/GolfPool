@@ -1,0 +1,37 @@
+﻿@model Golf.Web.Mvc.Models.Leaderboard
+
+@{
+  ViewBag.Title = "Pool Party Leaderboard";
+  Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<div>
+  <h2>@Model.First().Tournament.Name </h2>
+</div>
+
+<table class="board">
+  <tr>
+    <th style="text-align:left;">Golfer</th>
+    <th>r1</th>
+    <th>r2</th>
+    <th>r3</th>
+    <th>r4</th>
+    <th>Total</th>
+    <th style="text-align:left;">Owner</th>
+  </tr>
+
+  @foreach (var item in Model) {
+    <tr class="leaderboard_row">
+      <td>
+        <a href="@item.golfer.Link" target="_blank">
+          @Html.DisplayFor(modelItem => item.golfer.FullName)
+        </a>
+      </td>
+      <td class="score_under_par-@item.AreUnderPars[0].ToString()">@item.Score.Scores[0]</td>
+      <td class="score_under_par-@item.AreUnderPars[1].ToString()">@item.Score.Scores[1]</td>
+      <td class="score_under_par-@item.AreUnderPars[2].ToString()">@item.Score.Scores[2]</td>
+      <td class="score_under_par-@item.AreUnderPars[3].ToString()">@item.Score.Scores[3]</td>
+      <td class="score_under_par-@((item.Score.ToPar < 0).ToString()) total_score">@item.Score.ToPar</td>
+      <td class="username">@Html.ActionLink(item.User.Name,"Index","Userboard",new {id = Model.First().Tournament.EspnId},null)</td>
+    </tr>
+  }
+</table>

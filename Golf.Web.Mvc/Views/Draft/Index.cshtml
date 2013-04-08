@@ -1,0 +1,59 @@
+﻿@using Golf.Gallery;
+
+@model Golf.Web.Mvc.Models.Draft
+
+@{
+  ViewBag.Title = "Draft";
+  Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>@Html.DisplayFor(modelItem => Model.Tournament.Name)</h1>
+
+@using (Html.BeginForm("Delete", "Draft")) {
+  @Html.Hidden("tEspnId",Model.Tournament.EspnId)
+  <table>
+    <tr>
+      <th></th>
+
+      <th></th>
+    </tr>
+
+    @foreach (var draftPick in Model.DraftPicks) {
+      <tr>
+        <td>
+          @if (ViewContext.HttpContext.User.IsInRole("admin")) {
+            <input type="checkbox" name="picks_to_remove" value=@draftPick.golfer.Id />
+          }
+        </td>
+        <td>
+          <a href="@draftPick.golfer.Link">
+            @Html.DisplayFor(modelItem => draftPick.golfer.FullName)
+          </a>
+        </td>
+        <td>@Html.ActionLink(@draftPick.User.Name, "Index", "Userboard", new { id = Model.Tournament.EspnId }, null)</td>
+      </tr>
+    }
+  </table>
+  if (ViewContext.HttpContext.User.IsInRole("admin")) {
+    <input type="submit" value="Remove Selected" />  
+  }
+}
+
+
+@using (Html.BeginForm("Pick", "Draft")) {
+  @Html.Hidden("tEspnId",Model.Tournament.EspnId)
+  var selectGolfers = new List<SelectListItem>();
+  Model.AvailableGolfers.Sort((x, y) => string.Compare(x.LastName, y.LastName));
+  Model.AvailableGolfers.ForEach(g => selectGolfers.Add(new SelectListItem { Value = g.Id.ToString(), Text = g.FullName }));
+  if (ViewContext.HttpContext.User.IsInRole("admin")) {  
+    @Html.DropDownList("golferId", selectGolfers);
+  }
+
+  var selectUsers = new List<SelectListItem>();
+  Model.Users.ForEach(u => selectUsers.Add(new SelectListItem { Value = u.Id.ToString(), Text = u.Name }));
+  if (ViewContext.HttpContext.User.IsInRole("admin")) {
+    @Html.DropDownList("userId", selectUsers);
+  
+    <input type="submit" id="draft" value="Draft" />
+  }
+}

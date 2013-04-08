@@ -1,0 +1,78 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <link href="~/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+  <meta name="viewport" content="width=device-width" />
+  @Styles.Render("~/Content/css")
+  @Styles.Render("~/Content/bootstrap/bootstrap.min.css")
+  @Styles.Render("~/Content/bootstrap/bootstrap-responsive.min.css")
+  @Scripts.Render("~/bundles/jquery")
+  @Scripts.Render("~/bundles/modernizr")
+  @Scripts.Render("~/Scripts/bootstrap.min.js")
+  @Scripts.Render("~/Scripts/golfpool.js")
+  @RenderSection("scripts", required: false)
+</head>
+<body>
+  <header>
+    <div class="content-wrapper">
+      <div class="navbar">
+        <div class="navbar-inner">
+          <ul class="nav">
+            @Html.ActionLink("Golf Pool", "Index", "Home", null, new { @class = "brand" })
+            <li class="dropdown "><a class="dropdown-toggle" data-toggle="dropdown">Masters-1192</a>
+              <ul class="dropdown-menu" role="menu">
+                <li>@Html.ActionLink("Draft", "Index", "Draft", new { id = 1192 }, null)</li>
+                <li>@Html.ActionLink("Leaderboard", "Index", "Leaderboard", new { id = 1192 }, null)</li>
+                <li>@Html.ActionLink("Userboard", "Index", "Userboard", new { id = 1192 }, null)</li>
+              </ul>
+            </li>
+            <li class="dropdown  "><a class="dropdown-toggle" data-toggle="dropdown">The PLAYERS Championship</a>
+              <ul class="dropdown-menu" role="menu">
+                <li>@Html.ActionLink("Draft", "Index", "Draft", new { id = 1191 }, null)</li>
+                <li>@Html.ActionLink("Leaderboard", "Index", "Leaderboard", new { id = 1191 }, null)</li>
+                <li>@Html.ActionLink("Userboard", "Index", "Userboard", new { id = 1191 }, null)</li>
+              </ul>
+            </li>
+            <li class="dropdown  nav"><a class="dropdown-toggle" data-toggle="dropdown">US Open</a>
+              <ul class="dropdown-menu" role="menu">
+                <li>@Html.ActionLink("Draft", "Index", "Draft", new { id = 1200 }, null)</li>
+                <li>@Html.ActionLink("Leaderboard", "Index", "Leaderboard", new { id = 1200 }, null)</li>
+                <li>@Html.ActionLink("Userboard", "Index", "Userboard", new { id = 1200 }, null)</li>
+              </ul>
+            </li>
+            <li class="dropdown  nav"><a class="dropdown-toggle" data-toggle="dropdown">British Open</a>
+              <ul class="dropdown-menu" role="menu">
+                <li>@Html.ActionLink("Draft", "Index", "Draft", new { id = 1204 }, null)</li>
+                <li>@Html.ActionLink("Leaderboard", "Index", "Leaderboard", new { id = 1204 }, null)</li>
+                <li>@Html.ActionLink("Userboard", "Index", "Userboard", new { id = 1204 }, null)</li>
+              </ul>
+            </li>
+            <li class="dropdown  nav"><a class="dropdown-toggle" data-toggle="dropdown">PGA Championship</a>
+              <ul class="dropdown-menu" role="menu">
+                <li>@Html.ActionLink("Draft", "Index", "Draft", new { id = 1206 }, null)</li>
+                <li>@Html.ActionLink("Leaderboard", "Index", "Leaderboard", new { id = 1206 }, null)</li>
+                <li>@Html.ActionLink("Userboard", "Index", "Userboard", new { id = 1206 }, null)</li>
+              </ul>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <div id="body">
+    @RenderSection("featured", required: false)
+    <section class="content-wrapper main-content clear-fix">
+      @RenderBody()
+    </section>
+  </div>
+</body>
+</html>
+@if (ViewContext.HttpContext.User.IsInRole("admin")) {
+  <style>
+    content-wrapper {
+      background-color: red;
+    }
+  </style>
+}

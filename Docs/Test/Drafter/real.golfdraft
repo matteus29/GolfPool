@@ -1,0 +1,67 @@
+{
+	"tournamentname": "MRI Duffer's Classic",
+	"Picks": [{
+		"userid": 1,
+		"golferid": 11
+	},
+	{
+		"userid": 2,
+		"golferid": 5
+	},
+	{
+		"userid": 3,
+		"golferid": 7
+	},
+	{
+		"userid": 4,
+		"golferid": 16
+	},
+	{
+		"userid": 1,
+		"golferid": 4015
+	},
+	{
+		"userid": 2,
+		"golferid": 801
+	},
+	{
+		"userid": 3,
+		"golferid": 3777
+	},
+	{
+		"userid": 4,
+		"golferid": 3856
+	},
+	{
+		"userid": 1,
+		"golferid": 1354
+	},
+	{
+		"userid": 2,
+		"golferid": 1112
+	},
+	{
+		"userid": 3,
+		"golferid": 4513
+	},
+	{
+		"userid": 4,
+		"golferid": 49
+	},
+	{
+		"userid": 1,
+		"golferid": 65
+	},
+	{
+		"userid": 2,
+		"golferid": 6007
+	},
+	{
+		"userid": 3,
+		"golferid": 3740
+	},
+	{
+		"userid": 4,
+		"golferid": 5338
+	}]
+}

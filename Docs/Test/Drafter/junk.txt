@@ -1,0 +1,3149 @@
+{
+  "sports": [
+    {
+      "name": "golf",
+      "id": 1100,
+      "leagues": [
+        {
+          "name": "Professional Golf Association",
+          "abbreviation": "pga",
+          "id": 1106,
+          "groupId": 1,
+          "shortName": "PGA",
+          "athletes": [
+            {
+              "id": 1920,
+              "firstName": "Matt",
+              "lastName": "Bettencourt",
+              "fullName": "Matt Bettencourt",
+              "displayName": "Matt Bettencourt",
+              "shortName": "M. Bettencourt",
+              "links": {
+                "api": {
+                  "athletes": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/1920"
+                  },
+                  "news": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/1920/news"
+                  },
+                  "notes": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/1920/news/notes"
+                  }
+                },
+                "web": {
+                  "athletes": {
+                    "href": "http://espn.go.com/golf/players/profile?playerId=1920&ex_cid=espnapi_public"
+                  }
+                },
+                "mobile": {
+                  "athletes": {
+                    "href": "http://m.espn.go.com/golf/playercard?playerId=1920&ex_cid=espnapi_public"
+                  }
+                }
+              }
+            },
+            {
+              "id": 4309,
+              "firstName": "Gaganjeet",
+              "lastName": "Bhullar",
+              "fullName": "Gaganjeet Bhullar",
+              "displayName": "Gaganjeet Bhullar",
+              "shortName": "G. Bhullar",
+              "links": {
+                "api": {
+                  "athletes": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/4309"
+                  },
+                  "news": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/4309/news"
+                  },
+                  "notes": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/4309/news/notes"
+                  }
+                },
+                "web": {
+                  "athletes": {
+                    "href": "http://espn.go.com/golf/players/profile?playerId=4309&ex_cid=espnapi_public"
+                  }
+                },
+                "mobile": {
+                  "athletes": {
+                    "href": "http://m.espn.go.com/golf/playercard?playerId=4309&ex_cid=espnapi_public"
+                  }
+                }
+              }
+            },
+            {
+              "id": 503,
+              "firstName": "John",
+              "lastName": "Bickerton",
+              "fullName": "John Bickerton",
+              "displayName": "John Bickerton",
+              "shortName": "J. Bickerton",
+              "links": {
+                "api": {
+                  "athletes": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/503"
+                  },
+                  "news": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/503/news"
+                  },
+                  "notes": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/503/news/notes"
+                  }
+                },
+                "web": {
+                  "athletes": {
+                    "href": "http://espn.go.com/golf/players/profile?playerId=503&ex_cid=espnapi_public"
+                  }
+                },
+                "mobile": {
+                  "athletes": {
+                    "href": "http://m.espn.go.com/golf/playercard?playerId=503&ex_cid=espnapi_public"
+                  }
+                }
+              }
+            },
+            {
+              "id": 761,
+              "firstName": "Tommy",
+              "lastName": "Biershenk",
+              "fullName": "Tommy Biershenk",
+              "displayName": "Tommy Biershenk",
+              "shortName": "T. Biershenk",
+              "links": {
+                "api": {
+                  "athletes": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/761"
+                  },
+                  "news": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/761/news"
+                  },
+                  "notes": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/761/news/notes"
+                  }
+                },
+                "web": {
+                  "athletes": {
+                    "href": "http://espn.go.com/golf/players/profile?playerId=761&ex_cid=espnapi_public"
+                  }
+                },
+                "mobile": {
+                  "athletes": {
+                    "href": "http://m.espn.go.com/golf/playercard?playerId=761&ex_cid=espnapi_public"
+                  }
+                }
+              }
+            },
+            {
+              "id": 5960,
+              "firstName": "Bryan",
+              "lastName": "Bigley",
+              "fullName": "Bryan Bigley",
+              "displayName": "Bryan Bigley",
+              "shortName": "B. Bigley",
+              "links": {
+                "api": {
+                  "athletes": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/5960"
+                  },
+                  "news": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/5960/news"
+                  },
+                  "notes": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/5960/news/notes"
+                  }
+                },
+                "web": {
+                  "athletes": {
+                    "href": "http://espn.go.com/golf/players/profile?playerId=5960&ex_cid=espnapi_public"
+                  }
+                },
+                "mobile": {
+                  "athletes": {
+                    "href": "http://m.espn.go.com/golf/playercard?playerId=5960&ex_cid=espnapi_public"
+                  }
+                }
+              }
+            },
+            {
+              "id": 6054,
+              "firstName": "Lucas",
+              "lastName": "Bjerregaard",
+              "fullName": "Lucas Bjerregaard",
+              "displayName": "Lucas Bjerregaard",
+              "shortName": "L. Bjerregaard",
+              "links": {
+                "api": {
+                  "athletes": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/6054"
+                  },
+                  "news": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/6054/news"
+                  },
+                  "notes": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/6054/news/notes"
+                  }
+                },
+                "web": {
+                  "athletes": {
+                    "href": "http://espn.go.com/golf/players/profile?playerId=6054&ex_cid=espnapi_public"
+                  }
+                },
+                "mobile": {
+                  "athletes": {
+                    "href": "http://m.espn.go.com/golf/playercard?playerId=6054&ex_cid=espnapi_public"
+                  }
+                }
+              }
+            },
+            {
+              "id": 37,
+              "firstName": "Thomas",
+              "lastName": "Bjorn",
+              "fullName": "Thomas Bjorn",
+              "displayName": "Thomas Bjorn",
+              "shortName": "T. Bjorn",
+              "links": {
+                "api": {
+                  "athletes": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/37"
+                  },
+                  "news": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/37/news"
+                  },
+                  "notes": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/37/news/notes"
+                  }
+                },
+                "web": {
+                  "athletes": {
+                    "href": "http://espn.go.com/golf/players/profile?playerId=37&ex_cid=espnapi_public"
+                  }
+                },
+                "mobile": {
+                  "athletes": {
+                    "href": "http://m.espn.go.com/golf/playercard?playerId=37&ex_cid=espnapi_public"
+                  }
+                }
+              }
+            },
+            {
+              "id": 4071,
+              "firstName": "Jacques",
+              "lastName": "Blaauw",
+              "fullName": "Jacques Blaauw",
+              "displayName": "Jacques Blaauw",
+              "shortName": "J. Blaauw",
+              "links": {
+                "api": {
+                  "athletes": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/4071"
+                  },
+                  "news": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/4071/news"
+                  },
+                  "notes": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/4071/news/notes"
+                  }
+                },
+                "web": {
+                  "athletes": {
+                    "href": "http://espn.go.com/golf/players/profile?playerId=4071&ex_cid=espnapi_public"
+                  }
+                },
+                "mobile": {
+                  "athletes": {
+                    "href": "http://m.espn.go.com/golf/playercard?playerId=4071&ex_cid=espnapi_public"
+                  }
+                }
+              }
+            },
+            {
+              "id": 6890,
+              "firstName": "Chris",
+              "lastName": "Black",
+              "fullName": "Chris Black",
+              "displayName": "Chris Black",
+              "shortName": "C. Black",
+              "links": {
+                "api": {
+                  "athletes": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/6890"
+                  },
+                  "news": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/6890/news"
+                  },
+                  "notes": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/6890/news/notes"
+                  }
+                },
+                "web": {
+                  "athletes": {
+                    "href": "http://espn.go.com/golf/players/profile?playerId=6890&ex_cid=espnapi_public"
+                  }
+                },
+                "mobile": {
+                  "athletes": {
+                    "href": "http://m.espn.go.com/golf/playercard?playerId=6890&ex_cid=espnapi_public"
+                  }
+                }
+              }
+            },
+            {
+              "id": 5498,
+              "firstName": "Bennett",
+              "lastName": "Blakeman",
+              "fullName": "Bennett Blakeman",
+              "displayName": "Bennett Blakeman",
+              "shortName": "B. Blakeman",
+              "links": {
+                "api": {
+                  "athletes": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/5498"
+                  },
+                  "news": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/5498/news"
+                  },
+                  "notes": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/5498/news/notes"
+                  }
+                },
+                "web": {
+                  "athletes": {
+                    "href": "http://espn.go.com/golf/players/profile?playerId=5498&ex_cid=espnapi_public"
+                  }
+                },
+                "mobile": {
+                  "athletes": {
+                    "href": "http://m.espn.go.com/golf/playercard?playerId=5498&ex_cid=espnapi_public"
+                  }
+                }
+              }
+            },
+            {
+              "id": 1688,
+              "firstName": "Adam",
+              "lastName": "Bland",
+              "fullName": "Adam Bland",
+              "displayName": "Adam Bland",
+              "shortName": "A. Bland",
+              "links": {
+                "api": {
+                  "athletes": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/1688"
+                  },
+                  "news": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/1688/news"
+                  },
+                  "notes": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/1688/news/notes"
+                  }
+                },
+                "web": {
+                  "athletes": {
+                    "href": "http://espn.go.com/golf/players/profile?playerId=1688&ex_cid=espnapi_public"
+                  }
+                },
+                "mobile": {
+                  "athletes": {
+                    "href": "http://m.espn.go.com/golf/playercard?playerId=1688&ex_cid=espnapi_public"
+                  }
+                }
+              }
+            },
+            {
+              "id": 1441,
+              "firstName": "Rich",
+              "lastName": "Bland",
+              "fullName": "Rich Bland",
+              "displayName": "Rich Bland",
+              "shortName": "R. Bland",
+              "links": {
+                "api": {
+                  "athletes": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/1441"
+                  },
+                  "news": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/1441/news"
+                  },
+                  "notes": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/1441/news/notes"
+                  }
+                },
+                "web": {
+                  "athletes": {
+                    "href": "http://espn.go.com/golf/players/profile?playerId=1441&ex_cid=espnapi_public"
+                  }
+                },
+                "mobile": {
+                  "athletes": {
+                    "href": "http://m.espn.go.com/golf/playercard?playerId=1441&ex_cid=espnapi_public"
+                  }
+                }
+              }
+            },
+            {
+              "id": 1933,
+              "firstName": "Kris",
+              "lastName": "Blanks",
+              "fullName": "Kris Blanks",
+              "displayName": "Kris Blanks",
+              "shortName": "K. Blanks",
+              "links": {
+                "api": {
+                  "athletes": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/1933"
+                  },
+                  "news": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/1933/news"
+                  },
+                  "notes": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/1933/news/notes"
+                  }
+                },
+                "web": {
+                  "athletes": {
+                    "href": "http://espn.go.com/golf/players/profile?playerId=1933&ex_cid=espnapi_public"
+                  }
+                },
+                "mobile": {
+                  "athletes": {
+                    "href": "http://m.espn.go.com/golf/playercard?playerId=1933&ex_cid=espnapi_public"
+                  }
+                }
+              }
+            },
+            {
+              "id": 3856,
+              "firstName": "Jonas",
+              "lastName": "Blixt",
+              "fullName": "Jonas Blixt",
+              "displayName": "Jonas Blixt",
+              "shortName": "J. Blixt",
+              "links": {
+                "api": {
+                  "athletes": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/3856"
+                  },
+                  "news": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/3856/news"
+                  },
+                  "notes": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/3856/news/notes"
+                  }
+                },
+                "web": {
+                  "athletes": {
+                    "href": "http://espn.go.com/golf/players/profile?playerId=3856&ex_cid=espnapi_public"
+                  }
+                },
+                "mobile": {
+                  "athletes": {
+                    "href": "http://m.espn.go.com/golf/playercard?playerId=3856&ex_cid=espnapi_public"
+                  }
+                }
+              }
+            },
+            {
+              "id": 3818,
+              "firstName": "Rohan",
+              "lastName": "Blizard",
+              "fullName": "Rohan Blizard",
+              "displayName": "Rohan Blizard",
+              "shortName": "R. Blizard",
+              "links": {
+                "api": {
+                  "athletes": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/3818"
+                  },
+                  "news": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/3818/news"
+                  },
+                  "notes": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/3818/news/notes"
+                  }
+                },
+                "web": {
+                  "athletes": {
+                    "href": "http://espn.go.com/golf/players/profile?playerId=3818&ex_cid=espnapi_public"
+                  }
+                },
+                "mobile": {
+                  "athletes": {
+                    "href": "http://m.espn.go.com/golf/playercard?playerId=3818&ex_cid=espnapi_public"
+                  }
+                }
+              }
+            },
+            {
+              "id": 1173,
+              "firstName": "Jason",
+              "lastName": "Bohn",
+              "fullName": "Jason Bohn",
+              "displayName": "Jason Bohn",
+              "shortName": "J. Bohn",
+              "links": {
+                "api": {
+                  "athletes": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/1173"
+                  },
+                  "news": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/1173/news"
+                  },
+                  "notes": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/1173/news/notes"
+                  }
+                },
+                "web": {
+                  "athletes": {
+                    "href": "http://espn.go.com/golf/players/profile?playerId=1173&ex_cid=espnapi_public"
+                  }
+                },
+                "mobile": {
+                  "athletes": {
+                    "href": "http://m.espn.go.com/golf/playercard?playerId=1173&ex_cid=espnapi_public"
+                  }
+                }
+              }
+            },
+            {
+              "id": 1354,
+              "firstName": "Justin",
+              "lastName": "Bolli",
+              "fullName": "Justin Bolli",
+              "displayName": "Justin Bolli",
+              "shortName": "J. Bolli",
+              "links": {
+                "api": {
+                  "athletes": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/1354"
+                  },
+                  "news": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/1354/news"
+                  },
+                  "notes": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/1354/news/notes"
+                  }
+                },
+                "web": {
+                  "athletes": {
+                    "href": "http://espn.go.com/golf/players/profile?playerId=1354&ex_cid=espnapi_public"
+                  }
+                },
+                "mobile": {
+                  "athletes": {
+                    "href": "http://m.espn.go.com/golf/playercard?playerId=1354&ex_cid=espnapi_public"
+                  }
+                }
+              }
+            },
+            {
+              "id": 1514,
+              "firstName": "Andre",
+              "lastName": "Bossert",
+              "fullName": "Andre Bossert",
+              "displayName": "Andre Bossert",
+              "shortName": "A. Bossert",
+              "links": {
+                "api": {
+                  "athletes": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/1514"
+                  },
+                  "news": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/1514/news"
+                  },
+                  "notes": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/1514/news/notes"
+                  }
+                },
+                "web": {
+                  "athletes": {
+                    "href": "http://espn.go.com/golf/players/profile?playerId=1514&ex_cid=espnapi_public"
+                  }
+                },
+                "mobile": {
+                  "athletes": {
+                    "href": "http://m.espn.go.com/golf/playercard?playerId=1514&ex_cid=espnapi_public"
+                  }
+                }
+              }
+            },
+            {
+              "id": 1349,
+              "firstName": "Desvonde",
+              "lastName": "Botes",
+              "fullName": "Desvonde Botes",
+              "displayName": "Desvonde Botes",
+              "shortName": "D. Botes",
+              "links": {
+                "api": {
+                  "athletes": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/1349"
+                  },
+                  "news": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/1349/news"
+                  },
+                  "notes": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/1349/news/notes"
+                  }
+                },
+                "web": {
+                  "athletes": {
+                    "href": "http://espn.go.com/golf/players/profile?playerId=1349&ex_cid=espnapi_public"
+                  }
+                },
+                "mobile": {
+                  "athletes": {
+                    "href": "http://m.espn.go.com/golf/playercard?playerId=1349&ex_cid=espnapi_public"
+                  }
+                }
+              }
+            },
+            {
+              "id": 1442,
+              "firstName": "Marcus",
+              "lastName": "Both",
+              "fullName": "Marcus Both",
+              "displayName": "Marcus Both",
+              "shortName": "M. Both",
+              "links": {
+                "api": {
+                  "athletes": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/1442"
+                  },
+                  "news": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/1442/news"
+                  },
+                  "notes": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/1442/news/notes"
+                  }
+                },
+                "web": {
+                  "athletes": {
+                    "href": "http://espn.go.com/golf/players/profile?playerId=1442&ex_cid=espnapi_public"
+                  }
+                },
+                "mobile": {
+                  "athletes": {
+                    "href": "http://m.espn.go.com/golf/playercard?playerId=1442&ex_cid=espnapi_public"
+                  }
+                }
+              }
+            },
+            {
+              "id": 1443,
+              "firstName": "Gregory",
+              "lastName": "Bourdy",
+              "fullName": "Gregory Bourdy",
+              "displayName": "Gregory Bourdy",
+              "shortName": "G. Bourdy",
+              "links": {
+                "api": {
+                  "athletes": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/1443"
+                  },
+                  "news": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/1443/news"
+                  },
+                  "notes": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/1443/news/notes"
+                  }
+                },
+                "web": {
+                  "athletes": {
+                    "href": "http://espn.go.com/golf/players/profile?playerId=1443&ex_cid=espnapi_public"
+                  }
+                },
+                "mobile": {
+                  "athletes": {
+                    "href": "http://m.espn.go.com/golf/playercard?playerId=1443&ex_cid=espnapi_public"
+                  }
+                }
+              }
+            },
+            {
+              "id": 1112,
+              "firstName": "Steven",
+              "lastName": "Bowditch",
+              "fullName": "Steven Bowditch",
+              "displayName": "Steven Bowditch",
+              "shortName": "S. Bowditch",
+              "links": {
+                "api": {
+                  "athletes": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/1112"
+                  },
+                  "news": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/1112/news"
+                  },
+                  "notes": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/1112/news/notes"
+                  }
+                },
+                "web": {
+                  "athletes": {
+                    "href": "http://espn.go.com/golf/players/profile?playerId=1112&ex_cid=espnapi_public"
+                  }
+                },
+                "mobile": {
+                  "athletes": {
+                    "href": "http://m.espn.go.com/golf/playercard?playerId=1112&ex_cid=espnapi_public"
+                  }
+                }
+              }
+            },
+            {
+              "id": 3820,
+              "firstName": "Gary",
+              "lastName": "Boyd",
+              "fullName": "Gary Boyd",
+              "displayName": "Gary Boyd",
+              "shortName": "G. Boyd",
+              "links": {
+                "api": {
+                  "athletes": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/3820"
+                  },
+                  "news": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/3820/news"
+                  },
+                  "notes": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/3820/news/notes"
+                  }
+                },
+                "web": {
+                  "athletes": {
+                    "href": "http://espn.go.com/golf/players/profile?playerId=3820&ex_cid=espnapi_public"
+                  }
+                },
+                "mobile": {
+                  "athletes": {
+                    "href": "http://m.espn.go.com/golf/playercard?playerId=3820&ex_cid=espnapi_public"
+                  }
+                }
+              }
+            },
+            {
+              "id": 4513,
+              "firstName": "Keegan",
+              "lastName": "Bradley",
+              "fullName": "Keegan Bradley",
+              "displayName": "Keegan Bradley",
+              "shortName": "K. Bradley",
+              "links": {
+                "api": {
+                  "athletes": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/4513"
+                  },
+                  "news": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/4513/news"
+                  },
+                  "notes": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/4513/news/notes"
+                  }
+                },
+                "web": {
+                  "athletes": {
+                    "href": "http://espn.go.com/golf/players/profile?playerId=4513&ex_cid=espnapi_public"
+                  }
+                },
+                "mobile": {
+                  "athletes": {
+                    "href": "http://m.espn.go.com/golf/playercard?playerId=4513&ex_cid=espnapi_public"
+                  }
+                }
+              }
+            },
+            {
+              "id": 49,
+              "firstName": "Michael",
+              "lastName": "Bradley",
+              "fullName": "Michael Bradley",
+              "displayName": "Michael Bradley",
+              "shortName": "M. Bradley",
+              "links": {
+                "api": {
+                  "athletes": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/49"
+                  },
+                  "news": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/49/news"
+                  },
+                  "notes": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/49/news/notes"
+                  }
+                },
+                "web": {
+                  "athletes": {
+                    "href": "http://espn.go.com/golf/players/profile?playerId=49&ex_cid=espnapi_public"
+                  }
+                },
+                "mobile": {
+                  "athletes": {
+                    "href": "http://m.espn.go.com/golf/playercard?playerId=49&ex_cid=espnapi_public"
+                  }
+                }
+              }
+            },
+            {
+              "id": 3538,
+              "firstName": "David",
+              "lastName": "Bradshaw",
+              "fullName": "David Bradshaw",
+              "displayName": "David Bradshaw",
+              "shortName": "D. Bradshaw",
+              "links": {
+                "api": {
+                  "athletes": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/3538"
+                  },
+                  "news": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/3538/news"
+                  },
+                  "notes": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/3538/news/notes"
+                  }
+                },
+                "web": {
+                  "athletes": {
+                    "href": "http://espn.go.com/golf/players/profile?playerId=3538&ex_cid=espnapi_public"
+                  }
+                },
+                "mobile": {
+                  "athletes": {
+                    "href": "http://m.espn.go.com/golf/playercard?playerId=3538&ex_cid=espnapi_public"
+                  }
+                }
+              }
+            },
+            {
+              "id": 1300,
+              "firstName": "Paul",
+              "lastName": "Bradshaw",
+              "fullName": "Paul Bradshaw",
+              "displayName": "Paul Bradshaw",
+              "shortName": "P. Bradshaw",
+              "links": {
+                "api": {
+                  "athletes": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/1300"
+                  },
+                  "news": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/1300/news"
+                  },
+                  "notes": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/1300/news/notes"
+                  }
+                },
+                "web": {
+                  "athletes": {
+                    "href": "http://espn.go.com/golf/players/profile?playerId=1300&ex_cid=espnapi_public"
+                  }
+                },
+                "mobile": {
+                  "athletes": {
+                    "href": "http://m.espn.go.com/golf/playercard?playerId=1300&ex_cid=espnapi_public"
+                  }
+                }
+              }
+            },
+            {
+              "id": 6146,
+              "firstName": "Christian",
+              "lastName": "Brand",
+              "fullName": "Christian Brand",
+              "displayName": "Christian Brand",
+              "shortName": "C. Brand",
+              "links": {
+                "api": {
+                  "athletes": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/6146"
+                  },
+                  "news": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/6146/news"
+                  },
+                  "notes": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/6146/news/notes"
+                  }
+                },
+                "web": {
+                  "athletes": {
+                    "href": "http://espn.go.com/golf/players/profile?playerId=6146&ex_cid=espnapi_public"
+                  }
+                },
+                "mobile": {
+                  "athletes": {
+                    "href": "http://m.espn.go.com/golf/playercard?playerId=6146&ex_cid=espnapi_public"
+                  }
+                }
+              }
+            },
+            {
+              "id": 506,
+              "firstName": "Markus",
+              "lastName": "Brier",
+              "fullName": "Markus Brier",
+              "displayName": "Markus Brier",
+              "shortName": "M. Brier",
+              "links": {
+                "api": {
+                  "athletes": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/506"
+                  },
+                  "news": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/506/news"
+                  },
+                  "notes": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/506/news/notes"
+                  }
+                },
+                "web": {
+                  "athletes": {
+                    "href": "http://espn.go.com/golf/players/profile?playerId=506&ex_cid=espnapi_public"
+                  }
+                },
+                "mobile": {
+                  "athletes": {
+                    "href": "http://m.espn.go.com/golf/playercard?playerId=506&ex_cid=espnapi_public"
+                  }
+                }
+              }
+            },
+            {
+              "id": 1280,
+              "firstName": "Paul",
+              "lastName": "Broadhurst",
+              "fullName": "Paul Broadhurst",
+              "displayName": "Paul Broadhurst",
+              "shortName": "P. Broadhurst",
+              "links": {
+                "api": {
+                  "athletes": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/1280"
+                  },
+                  "news": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/1280/news"
+                  },
+                  "notes": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/1280/news/notes"
+                  }
+                },
+                "web": {
+                  "athletes": {
+                    "href": "http://espn.go.com/golf/players/profile?playerId=1280&ex_cid=espnapi_public"
+                  }
+                },
+                "mobile": {
+                  "athletes": {
+                    "href": "http://m.espn.go.com/golf/playercard?playerId=1280&ex_cid=espnapi_public"
+                  }
+                }
+              }
+            },
+            {
+              "id": 4635,
+              "firstName": "Josh",
+              "lastName": "Brock",
+              "fullName": "Josh Brock",
+              "displayName": "Josh Brock",
+              "shortName": "J. Brock",
+              "links": {
+                "api": {
+                  "athletes": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/4635"
+                  },
+                  "news": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/4635/news"
+                  },
+                  "notes": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/4635/news/notes"
+                  }
+                },
+                "web": {
+                  "athletes": {
+                    "href": "http://espn.go.com/golf/players/profile?playerId=4635&ex_cid=espnapi_public"
+                  }
+                },
+                "mobile": {
+                  "athletes": {
+                    "href": "http://m.espn.go.com/golf/playercard?playerId=4635&ex_cid=espnapi_public"
+                  }
+                }
+              }
+            },
+            {
+              "id": 57,
+              "firstName": "Billy Ray",
+              "lastName": "Brown",
+              "fullName": "Billy Ray Brown",
+              "displayName": "Billy Ray Brown",
+              "shortName": "B. Brown",
+              "links": {
+                "api": {
+                  "athletes": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/57"
+                  },
+                  "news": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/57/news"
+                  },
+                  "notes": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/57/news/notes"
+                  }
+                },
+                "web": {
+                  "athletes": {
+                    "href": "http://espn.go.com/golf/players/profile?playerId=57&ex_cid=espnapi_public"
+                  }
+                },
+                "mobile": {
+                  "athletes": {
+                    "href": "http://m.espn.go.com/golf/playercard?playerId=57&ex_cid=espnapi_public"
+                  }
+                }
+              }
+            },
+            {
+              "id": 4016,
+              "firstName": "Brandon",
+              "lastName": "Brown",
+              "fullName": "Brandon Brown",
+              "displayName": "Brandon Brown",
+              "shortName": "B. Brown",
+              "links": {
+                "api": {
+                  "athletes": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/4016"
+                  },
+                  "news": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/4016/news"
+                  },
+                  "notes": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/4016/news/notes"
+                  }
+                },
+                "web": {
+                  "athletes": {
+                    "href": "http://espn.go.com/golf/players/profile?playerId=4016&ex_cid=espnapi_public"
+                  }
+                },
+                "mobile": {
+                  "athletes": {
+                    "href": "http://m.espn.go.com/golf/playercard?playerId=4016&ex_cid=espnapi_public"
+                  }
+                }
+              }
+            },
+            {
+              "id": 4033,
+              "firstName": "Mark",
+              "lastName": "Brown",
+              "fullName": "Mark Brown",
+              "displayName": "Mark Brown",
+              "shortName": "M. Brown",
+              "links": {
+                "api": {
+                  "athletes": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/4033"
+                  },
+                  "news": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/4033/news"
+                  },
+                  "notes": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/4033/news/notes"
+                  }
+                },
+                "web": {
+                  "athletes": {
+                    "href": "http://espn.go.com/golf/players/profile?playerId=4033&ex_cid=espnapi_public"
+                  }
+                },
+                "mobile": {
+                  "athletes": {
+                    "href": "http://m.espn.go.com/golf/playercard?playerId=4033&ex_cid=espnapi_public"
+                  }
+                }
+              }
+            },
+            {
+              "id": 4591,
+              "firstName": "Scott",
+              "lastName": "Brown",
+              "fullName": "Scott Brown",
+              "displayName": "Scott Brown",
+              "shortName": "S. Brown",
+              "links": {
+                "api": {
+                  "athletes": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/4591"
+                  },
+                  "news": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/4591/news"
+                  },
+                  "notes": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/4591/news/notes"
+                  }
+                },
+                "web": {
+                  "athletes": {
+                    "href": "http://espn.go.com/golf/players/profile?playerId=4591&ex_cid=espnapi_public"
+                  }
+                },
+                "mobile": {
+                  "athletes": {
+                    "href": "http://m.espn.go.com/golf/playercard?playerId=4591&ex_cid=espnapi_public"
+                  }
+                }
+              }
+            },
+            {
+              "id": 59,
+              "firstName": "Bart",
+              "lastName": "Bryant",
+              "fullName": "Bart Bryant",
+              "displayName": "Bart Bryant",
+              "shortName": "B. Bryant",
+              "links": {
+                "api": {
+                  "athletes": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/59"
+                  },
+                  "news": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/59/news"
+                  },
+                  "notes": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/59/news/notes"
+                  }
+                },
+                "web": {
+                  "athletes": {
+                    "href": "http://espn.go.com/golf/players/profile?playerId=59&ex_cid=espnapi_public"
+                  }
+                },
+                "mobile": {
+                  "athletes": {
+                    "href": "http://m.espn.go.com/golf/playercard?playerId=59&ex_cid=espnapi_public"
+                  }
+                }
+              }
+            },
+            {
+              "id": 1982,
+              "firstName": "Dan",
+              "lastName": "Buchner",
+              "fullName": "Dan Buchner",
+              "displayName": "Dan Buchner",
+              "shortName": "D. Buchner",
+              "links": {
+                "api": {
+                  "athletes": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/1982"
+                  },
+                  "news": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/1982/news"
+                  },
+                  "notes": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/1982/news/notes"
+                  }
+                },
+                "web": {
+                  "athletes": {
+                    "href": "http://espn.go.com/golf/players/profile?playerId=1982&ex_cid=espnapi_public"
+                  }
+                },
+                "mobile": {
+                  "athletes": {
+                    "href": "http://m.espn.go.com/golf/playercard?playerId=1982&ex_cid=espnapi_public"
+                  }
+                }
+              }
+            },
+            {
+              "id": 5583,
+              "firstName": "Dave",
+              "lastName": "Bunker",
+              "fullName": "Dave Bunker",
+              "displayName": "Dave Bunker",
+              "shortName": "D. Bunker",
+              "links": {
+                "api": {
+                  "athletes": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/5583"
+                  },
+                  "news": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/5583/news"
+                  },
+                  "notes": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/5583/news/notes"
+                  }
+                },
+                "web": {
+                  "athletes": {
+                    "href": "http://espn.go.com/golf/players/profile?playerId=5583&ex_cid=espnapi_public"
+                  }
+                },
+                "mobile": {
+                  "athletes": {
+                    "href": "http://m.espn.go.com/golf/playercard?playerId=5583&ex_cid=espnapi_public"
+                  }
+                }
+              }
+            },
+            {
+              "id": 61,
+              "firstName": "Bob",
+              "lastName": "Burns",
+              "fullName": "Bob Burns",
+              "displayName": "Bob Burns",
+              "shortName": "B. Burns",
+              "links": {
+                "api": {
+                  "athletes": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/61"
+                  },
+                  "news": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/61/news"
+                  },
+                  "notes": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/61/news/notes"
+                  }
+                },
+                "web": {
+                  "athletes": {
+                    "href": "http://espn.go.com/golf/players/profile?playerId=61&ex_cid=espnapi_public"
+                  }
+                },
+                "mobile": {
+                  "athletes": {
+                    "href": "http://m.espn.go.com/golf/playercard?playerId=61&ex_cid=espnapi_public"
+                  }
+                }
+              }
+            },
+            {
+              "id": 1145,
+              "firstName": "Kevin",
+              "lastName": "Burton",
+              "fullName": "Kevin Burton",
+              "displayName": "Kevin Burton",
+              "shortName": "K. Burton",
+              "links": {
+                "api": {
+                  "athletes": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/1145"
+                  },
+                  "news": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/1145/news"
+                  },
+                  "notes": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/1145/news/notes"
+                  }
+                },
+                "web": {
+                  "athletes": {
+                    "href": "http://espn.go.com/golf/players/profile?playerId=1145&ex_cid=espnapi_public"
+                  }
+                },
+                "mobile": {
+                  "athletes": {
+                    "href": "http://m.espn.go.com/golf/playercard?playerId=1145&ex_cid=espnapi_public"
+                  }
+                }
+              }
+            },
+            {
+              "id": 1445,
+              "firstName": "Andrew",
+              "lastName": "Butterfield",
+              "fullName": "Andrew Butterfield",
+              "displayName": "Andrew Butterfield",
+              "shortName": "A. Butterfield",
+              "links": {
+                "api": {
+                  "athletes": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/1445"
+                  },
+                  "news": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/1445/news"
+                  },
+                  "notes": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/1445/news/notes"
+                  }
+                },
+                "web": {
+                  "athletes": {
+                    "href": "http://espn.go.com/golf/players/profile?playerId=1445&ex_cid=espnapi_public"
+                  }
+                },
+                "mobile": {
+                  "athletes": {
+                    "href": "http://m.espn.go.com/golf/playercard?playerId=1445&ex_cid=espnapi_public"
+                  }
+                }
+              }
+            },
+            {
+              "id": 508,
+              "firstName": "Jonathan",
+              "lastName": "Byrd",
+              "fullName": "Jonathan Byrd",
+              "displayName": "Jonathan Byrd",
+              "shortName": "J. Byrd",
+              "links": {
+                "api": {
+                  "athletes": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/508"
+                  },
+                  "news": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/508/news"
+                  },
+                  "notes": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/508/news/notes"
+                  }
+                },
+                "web": {
+                  "athletes": {
+                    "href": "http://espn.go.com/golf/players/profile?playerId=508&ex_cid=espnapi_public"
+                  }
+                },
+                "mobile": {
+                  "athletes": {
+                    "href": "http://m.espn.go.com/golf/playercard?playerId=508&ex_cid=espnapi_public"
+                  }
+                }
+              }
+            },
+            {
+              "id": 6743,
+              "firstName": "David",
+              "lastName": "Byrne",
+              "fullName": "David Byrne",
+              "displayName": "David Byrne",
+              "shortName": "D. Byrne",
+              "links": {
+                "api": {
+                  "athletes": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/6743"
+                  },
+                  "news": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/6743/news"
+                  },
+                  "notes": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/6743/news/notes"
+                  }
+                },
+                "web": {
+                  "athletes": {
+                    "href": "http://espn.go.com/golf/players/profile?playerId=6743&ex_cid=espnapi_public"
+                  }
+                },
+                "mobile": {
+                  "athletes": {
+                    "href": "http://m.espn.go.com/golf/playercard?playerId=6743&ex_cid=espnapi_public"
+                  }
+                }
+              }
+            },
+            {
+              "id": 65,
+              "firstName": "Angel",
+              "lastName": "Cabrera",
+              "fullName": "Angel Cabrera",
+              "displayName": "Angel Cabrera",
+              "shortName": "A. Cabrera",
+              "links": {
+                "api": {
+                  "athletes": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/65"
+                  },
+                  "news": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/65/news"
+                  },
+                  "notes": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/65/news/notes"
+                  }
+                },
+                "web": {
+                  "athletes": {
+                    "href": "http://espn.go.com/golf/players/profile?playerId=65&ex_cid=espnapi_public"
+                  }
+                },
+                "mobile": {
+                  "athletes": {
+                    "href": "http://m.espn.go.com/golf/playercard?playerId=65&ex_cid=espnapi_public"
+                  }
+                }
+              }
+            },
+            {
+              "id": 4690,
+              "firstName": "Federico",
+              "lastName": "Cabrera",
+              "fullName": "Federico Cabrera",
+              "displayName": "Federico Cabrera",
+              "shortName": "F. Cabrera",
+              "links": {
+                "api": {
+                  "athletes": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/4690"
+                  },
+                  "news": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/4690/news"
+                  },
+                  "notes": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/4690/news/notes"
+                  }
+                },
+                "web": {
+                  "athletes": {
+                    "href": "http://espn.go.com/golf/players/profile?playerId=4690&ex_cid=espnapi_public"
+                  }
+                },
+                "mobile": {
+                  "athletes": {
+                    "href": "http://m.espn.go.com/golf/playercard?playerId=4690&ex_cid=espnapi_public"
+                  }
+                }
+              }
+            },
+            {
+              "id": 4321,
+              "firstName": "Rafael",
+              "lastName": "Cabrera Bello",
+              "fullName": "Rafael Cabrera Bello",
+              "displayName": "Rafael Cabrera Bello",
+              "shortName": "R. Cabrera Bello",
+              "links": {
+                "api": {
+                  "athletes": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/4321"
+                  },
+                  "news": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/4321/news"
+                  },
+                  "notes": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/4321/news/notes"
+                  }
+                },
+                "web": {
+                  "athletes": {
+                    "href": "http://espn.go.com/golf/players/profile?playerId=4321&ex_cid=espnapi_public"
+                  }
+                },
+                "mobile": {
+                  "athletes": {
+                    "href": "http://m.espn.go.com/golf/playercard?playerId=4321&ex_cid=espnapi_public"
+                  }
+                }
+              }
+            },
+            {
+              "id": 597,
+              "firstName": "Brian",
+              "lastName": "Cairns",
+              "fullName": "Brian Cairns",
+              "displayName": "Brian Cairns",
+              "shortName": "B. Cairns",
+              "links": {
+                "api": {
+                  "athletes": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/597"
+                  },
+                  "news": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/597/news"
+                  },
+                  "notes": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/597/news/notes"
+                  }
+                },
+                "web": {
+                  "athletes": {
+                    "href": "http://espn.go.com/golf/players/profile?playerId=597&ex_cid=espnapi_public"
+                  }
+                },
+                "mobile": {
+                  "athletes": {
+                    "href": "http://m.espn.go.com/golf/playercard?playerId=597&ex_cid=espnapi_public"
+                  }
+                }
+              }
+            },
+            {
+              "id": 4077,
+              "firstName": "Jonathan",
+              "lastName": "Caldwell",
+              "fullName": "Jonathan Caldwell",
+              "displayName": "Jonathan Caldwell",
+              "shortName": "J. Caldwell",
+              "links": {
+                "api": {
+                  "athletes": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/4077"
+                  },
+                  "news": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/4077/news"
+                  },
+                  "notes": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/4077/news/notes"
+                  }
+                },
+                "web": {
+                  "athletes": {
+                    "href": "http://espn.go.com/golf/players/profile?playerId=4077&ex_cid=espnapi_public"
+                  }
+                },
+                "mobile": {
+                  "athletes": {
+                    "href": "http://m.espn.go.com/golf/playercard?playerId=4077&ex_cid=espnapi_public"
+                  }
+                }
+              }
+            },
+            {
+              "id": 6672,
+              "firstName": "Robert",
+              "lastName": "Calvesbert",
+              "fullName": "Robert Calvesbert",
+              "displayName": "Robert Calvesbert",
+              "shortName": "R. Calvesbert",
+              "links": {
+                "api": {
+                  "athletes": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/6672"
+                  },
+                  "news": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/6672/news"
+                  },
+                  "notes": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/6672/news/notes"
+                  }
+                },
+                "web": {
+                  "athletes": {
+                    "href": "http://espn.go.com/golf/players/profile?playerId=6672&ex_cid=espnapi_public"
+                  }
+                },
+                "mobile": {
+                  "athletes": {
+                    "href": "http://m.espn.go.com/golf/playercard?playerId=6672&ex_cid=espnapi_public"
+                  }
+                }
+              }
+            },
+            {
+              "id": 68,
+              "firstName": "Chad",
+              "lastName": "Campbell",
+              "fullName": "Chad Campbell",
+              "displayName": "Chad Campbell",
+              "shortName": "C. Campbell",
+              "links": {
+                "api": {
+                  "athletes": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/68"
+                  },
+                  "news": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/68/news"
+                  },
+                  "notes": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/68/news/notes"
+                  }
+                },
+                "web": {
+                  "athletes": {
+                    "href": "http://espn.go.com/golf/players/profile?playerId=68&ex_cid=espnapi_public"
+                  }
+                },
+                "mobile": {
+                  "athletes": {
+                    "href": "http://m.espn.go.com/golf/playercard?playerId=68&ex_cid=espnapi_public"
+                  }
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "resultsOffset": 51,
+  "resultsLimit": 50,
+  "resultsCount": 938,
+  "timestamp": "2013-01-16T15:47:22Z",
+  "status": "success"
+}
+    base {Newtonsoft.Json.Linq.JContainer}: {
+  "sports": [
+    {
+      "name": "golf",
+      "id": 1100,
+      "leagues": [
+        {
+          "name": "Professional Golf Association",
+          "abbreviation": "pga",
+          "id": 1106,
+          "groupId": 1,
+          "shortName": "PGA",
+          "athletes": [
+            {
+              "id": 1920,
+              "firstName": "Matt",
+              "lastName": "Bettencourt",
+              "fullName": "Matt Bettencourt",
+              "displayName": "Matt Bettencourt",
+              "shortName": "M. Bettencourt",
+              "links": {
+                "api": {
+                  "athletes": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/1920"
+                  },
+                  "news": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/1920/news"
+                  },
+                  "notes": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/1920/news/notes"
+                  }
+                },
+                "web": {
+                  "athletes": {
+                    "href": "http://espn.go.com/golf/players/profile?playerId=1920&ex_cid=espnapi_public"
+                  }
+                },
+                "mobile": {
+                  "athletes": {
+                    "href": "http://m.espn.go.com/golf/playercard?playerId=1920&ex_cid=espnapi_public"
+                  }
+                }
+              }
+            },
+            {
+              "id": 4309,
+              "firstName": "Gaganjeet",
+              "lastName": "Bhullar",
+              "fullName": "Gaganjeet Bhullar",
+              "displayName": "Gaganjeet Bhullar",
+              "shortName": "G. Bhullar",
+              "links": {
+                "api": {
+                  "athletes": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/4309"
+                  },
+                  "news": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/4309/news"
+                  },
+                  "notes": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/4309/news/notes"
+                  }
+                },
+                "web": {
+                  "athletes": {
+                    "href": "http://espn.go.com/golf/players/profile?playerId=4309&ex_cid=espnapi_public"
+                  }
+                },
+                "mobile": {
+                  "athletes": {
+                    "href": "http://m.espn.go.com/golf/playercard?playerId=4309&ex_cid=espnapi_public"
+                  }
+                }
+              }
+            },
+            {
+              "id": 503,
+              "firstName": "John",
+              "lastName": "Bickerton",
+              "fullName": "John Bickerton",
+              "displayName": "John Bickerton",
+              "shortName": "J. Bickerton",
+              "links": {
+                "api": {
+                  "athletes": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/503"
+                  },
+                  "news": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/503/news"
+                  },
+                  "notes": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/503/news/notes"
+                  }
+                },
+                "web": {
+                  "athletes": {
+                    "href": "http://espn.go.com/golf/players/profile?playerId=503&ex_cid=espnapi_public"
+                  }
+                },
+                "mobile": {
+                  "athletes": {
+                    "href": "http://m.espn.go.com/golf/playercard?playerId=503&ex_cid=espnapi_public"
+                  }
+                }
+              }
+            },
+            {
+              "id": 761,
+              "firstName": "Tommy",
+              "lastName": "Biershenk",
+              "fullName": "Tommy Biershenk",
+              "displayName": "Tommy Biershenk",
+              "shortName": "T. Biershenk",
+              "links": {
+                "api": {
+                  "athletes": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/761"
+                  },
+                  "news": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/761/news"
+                  },
+                  "notes": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/761/news/notes"
+                  }
+                },
+                "web": {
+                  "athletes": {
+                    "href": "http://espn.go.com/golf/players/profile?playerId=761&ex_cid=espnapi_public"
+                  }
+                },
+                "mobile": {
+                  "athletes": {
+                    "href": "http://m.espn.go.com/golf/playercard?playerId=761&ex_cid=espnapi_public"
+                  }
+                }
+              }
+            },
+            {
+              "id": 5960,
+              "firstName": "Bryan",
+              "lastName": "Bigley",
+              "fullName": "Bryan Bigley",
+              "displayName": "Bryan Bigley",
+              "shortName": "B. Bigley",
+              "links": {
+                "api": {
+                  "athletes": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/5960"
+                  },
+                  "news": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/5960/news"
+                  },
+                  "notes": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/5960/news/notes"
+                  }
+                },
+                "web": {
+                  "athletes": {
+                    "href": "http://espn.go.com/golf/players/profile?playerId=5960&ex_cid=espnapi_public"
+                  }
+                },
+                "mobile": {
+                  "athletes": {
+                    "href": "http://m.espn.go.com/golf/playercard?playerId=5960&ex_cid=espnapi_public"
+                  }
+                }
+              }
+            },
+            {
+              "id": 6054,
+              "firstName": "Lucas",
+              "lastName": "Bjerregaard",
+              "fullName": "Lucas Bjerregaard",
+              "displayName": "Lucas Bjerregaard",
+              "shortName": "L. Bjerregaard",
+              "links": {
+                "api": {
+                  "athletes": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/6054"
+                  },
+                  "news": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/6054/news"
+                  },
+                  "notes": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/6054/news/notes"
+                  }
+                },
+                "web": {
+                  "athletes": {
+                    "href": "http://espn.go.com/golf/players/profile?playerId=6054&ex_cid=espnapi_public"
+                  }
+                },
+                "mobile": {
+                  "athletes": {
+                    "href": "http://m.espn.go.com/golf/playercard?playerId=6054&ex_cid=espnapi_public"
+                  }
+                }
+              }
+            },
+            {
+              "id": 37,
+              "firstName": "Thomas",
+              "lastName": "Bjorn",
+              "fullName": "Thomas Bjorn",
+              "displayName": "Thomas Bjorn",
+              "shortName": "T. Bjorn",
+              "links": {
+                "api": {
+                  "athletes": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/37"
+                  },
+                  "news": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/37/news"
+                  },
+                  "notes": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/37/news/notes"
+                  }
+                },
+                "web": {
+                  "athletes": {
+                    "href": "http://espn.go.com/golf/players/profile?playerId=37&ex_cid=espnapi_public"
+                  }
+                },
+                "mobile": {
+                  "athletes": {
+                    "href": "http://m.espn.go.com/golf/playercard?playerId=37&ex_cid=espnapi_public"
+                  }
+                }
+              }
+            },
+            {
+              "id": 4071,
+              "firstName": "Jacques",
+              "lastName": "Blaauw",
+              "fullName": "Jacques Blaauw",
+              "displayName": "Jacques Blaauw",
+              "shortName": "J. Blaauw",
+              "links": {
+                "api": {
+                  "athletes": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/4071"
+                  },
+                  "news": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/4071/news"
+                  },
+                  "notes": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/4071/news/notes"
+                  }
+                },
+                "web": {
+                  "athletes": {
+                    "href": "http://espn.go.com/golf/players/profile?playerId=4071&ex_cid=espnapi_public"
+                  }
+                },
+                "mobile": {
+                  "athletes": {
+                    "href": "http://m.espn.go.com/golf/playercard?playerId=4071&ex_cid=espnapi_public"
+                  }
+                }
+              }
+            },
+            {
+              "id": 6890,
+              "firstName": "Chris",
+              "lastName": "Black",
+              "fullName": "Chris Black",
+              "displayName": "Chris Black",
+              "shortName": "C. Black",
+              "links": {
+                "api": {
+                  "athletes": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/6890"
+                  },
+                  "news": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/6890/news"
+                  },
+                  "notes": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/6890/news/notes"
+                  }
+                },
+                "web": {
+                  "athletes": {
+                    "href": "http://espn.go.com/golf/players/profile?playerId=6890&ex_cid=espnapi_public"
+                  }
+                },
+                "mobile": {
+                  "athletes": {
+                    "href": "http://m.espn.go.com/golf/playercard?playerId=6890&ex_cid=espnapi_public"
+                  }
+                }
+              }
+            },
+            {
+              "id": 5498,
+              "firstName": "Bennett",
+              "lastName": "Blakeman",
+              "fullName": "Bennett Blakeman",
+              "displayName": "Bennett Blakeman",
+              "shortName": "B. Blakeman",
+              "links": {
+                "api": {
+                  "athletes": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/5498"
+                  },
+                  "news": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/5498/news"
+                  },
+                  "notes": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/5498/news/notes"
+                  }
+                },
+                "web": {
+                  "athletes": {
+                    "href": "http://espn.go.com/golf/players/profile?playerId=5498&ex_cid=espnapi_public"
+                  }
+                },
+                "mobile": {
+                  "athletes": {
+                    "href": "http://m.espn.go.com/golf/playercard?playerId=5498&ex_cid=espnapi_public"
+                  }
+                }
+              }
+            },
+            {
+              "id": 1688,
+              "firstName": "Adam",
+              "lastName": "Bland",
+              "fullName": "Adam Bland",
+              "displayName": "Adam Bland",
+              "shortName": "A. Bland",
+              "links": {
+                "api": {
+                  "athletes": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/1688"
+                  },
+                  "news": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/1688/news"
+                  },
+                  "notes": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/1688/news/notes"
+                  }
+                },
+                "web": {
+                  "athletes": {
+                    "href": "http://espn.go.com/golf/players/profile?playerId=1688&ex_cid=espnapi_public"
+                  }
+                },
+                "mobile": {
+                  "athletes": {
+                    "href": "http://m.espn.go.com/golf/playercard?playerId=1688&ex_cid=espnapi_public"
+                  }
+                }
+              }
+            },
+            {
+              "id": 1441,
+              "firstName": "Rich",
+              "lastName": "Bland",
+              "fullName": "Rich Bland",
+              "displayName": "Rich Bland",
+              "shortName": "R. Bland",
+              "links": {
+                "api": {
+                  "athletes": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/1441"
+                  },
+                  "news": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/1441/news"
+                  },
+                  "notes": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/1441/news/notes"
+                  }
+                },
+                "web": {
+                  "athletes": {
+                    "href": "http://espn.go.com/golf/players/profile?playerId=1441&ex_cid=espnapi_public"
+                  }
+                },
+                "mobile": {
+                  "athletes": {
+                    "href": "http://m.espn.go.com/golf/playercard?playerId=1441&ex_cid=espnapi_public"
+                  }
+                }
+              }
+            },
+            {
+              "id": 1933,
+              "firstName": "Kris",
+              "lastName": "Blanks",
+              "fullName": "Kris Blanks",
+              "displayName": "Kris Blanks",
+              "shortName": "K. Blanks",
+              "links": {
+                "api": {
+                  "athletes": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/1933"
+                  },
+                  "news": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/1933/news"
+                  },
+                  "notes": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/1933/news/notes"
+                  }
+                },
+                "web": {
+                  "athletes": {
+                    "href": "http://espn.go.com/golf/players/profile?playerId=1933&ex_cid=espnapi_public"
+                  }
+                },
+                "mobile": {
+                  "athletes": {
+                    "href": "http://m.espn.go.com/golf/playercard?playerId=1933&ex_cid=espnapi_public"
+                  }
+                }
+              }
+            },
+            {
+              "id": 3856,
+              "firstName": "Jonas",
+              "lastName": "Blixt",
+              "fullName": "Jonas Blixt",
+              "displayName": "Jonas Blixt",
+              "shortName": "J. Blixt",
+              "links": {
+                "api": {
+                  "athletes": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/3856"
+                  },
+                  "news": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/3856/news"
+                  },
+                  "notes": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/3856/news/notes"
+                  }
+                },
+                "web": {
+                  "athletes": {
+                    "href": "http://espn.go.com/golf/players/profile?playerId=3856&ex_cid=espnapi_public"
+                  }
+                },
+                "mobile": {
+                  "athletes": {
+                    "href": "http://m.espn.go.com/golf/playercard?playerId=3856&ex_cid=espnapi_public"
+                  }
+                }
+              }
+            },
+            {
+              "id": 3818,
+              "firstName": "Rohan",
+              "lastName": "Blizard",
+              "fullName": "Rohan Blizard",
+              "displayName": "Rohan Blizard",
+              "shortName": "R. Blizard",
+              "links": {
+                "api": {
+                  "athletes": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/3818"
+                  },
+                  "news": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/3818/news"
+                  },
+                  "notes": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/3818/news/notes"
+                  }
+                },
+                "web": {
+                  "athletes": {
+                    "href": "http://espn.go.com/golf/players/profile?playerId=3818&ex_cid=espnapi_public"
+                  }
+                },
+                "mobile": {
+                  "athletes": {
+                    "href": "http://m.espn.go.com/golf/playercard?playerId=3818&ex_cid=espnapi_public"
+                  }
+                }
+              }
+            },
+            {
+              "id": 1173,
+              "firstName": "Jason",
+              "lastName": "Bohn",
+              "fullName": "Jason Bohn",
+              "displayName": "Jason Bohn",
+              "shortName": "J. Bohn",
+              "links": {
+                "api": {
+                  "athletes": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/1173"
+                  },
+                  "news": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/1173/news"
+                  },
+                  "notes": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/1173/news/notes"
+                  }
+                },
+                "web": {
+                  "athletes": {
+                    "href": "http://espn.go.com/golf/players/profile?playerId=1173&ex_cid=espnapi_public"
+                  }
+                },
+                "mobile": {
+                  "athletes": {
+                    "href": "http://m.espn.go.com/golf/playercard?playerId=1173&ex_cid=espnapi_public"
+                  }
+                }
+              }
+            },
+            {
+              "id": 1354,
+              "firstName": "Justin",
+              "lastName": "Bolli",
+              "fullName": "Justin Bolli",
+              "displayName": "Justin Bolli",
+              "shortName": "J. Bolli",
+              "links": {
+                "api": {
+                  "athletes": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/1354"
+                  },
+                  "news": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/1354/news"
+                  },
+                  "notes": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/1354/news/notes"
+                  }
+                },
+                "web": {
+                  "athletes": {
+                    "href": "http://espn.go.com/golf/players/profile?playerId=1354&ex_cid=espnapi_public"
+                  }
+                },
+                "mobile": {
+                  "athletes": {
+                    "href": "http://m.espn.go.com/golf/playercard?playerId=1354&ex_cid=espnapi_public"
+                  }
+                }
+              }
+            },
+            {
+              "id": 1514,
+              "firstName": "Andre",
+              "lastName": "Bossert",
+              "fullName": "Andre Bossert",
+              "displayName": "Andre Bossert",
+              "shortName": "A. Bossert",
+              "links": {
+                "api": {
+                  "athletes": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/1514"
+                  },
+                  "news": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/1514/news"
+                  },
+                  "notes": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/1514/news/notes"
+                  }
+                },
+                "web": {
+                  "athletes": {
+                    "href": "http://espn.go.com/golf/players/profile?playerId=1514&ex_cid=espnapi_public"
+                  }
+                },
+                "mobile": {
+                  "athletes": {
+                    "href": "http://m.espn.go.com/golf/playercard?playerId=1514&ex_cid=espnapi_public"
+                  }
+                }
+              }
+            },
+            {
+              "id": 1349,
+              "firstName": "Desvonde",
+              "lastName": "Botes",
+              "fullName": "Desvonde Botes",
+              "displayName": "Desvonde Botes",
+              "shortName": "D. Botes",
+              "links": {
+                "api": {
+                  "athletes": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/1349"
+                  },
+                  "news": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/1349/news"
+                  },
+                  "notes": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/1349/news/notes"
+                  }
+                },
+                "web": {
+                  "athletes": {
+                    "href": "http://espn.go.com/golf/players/profile?playerId=1349&ex_cid=espnapi_public"
+                  }
+                },
+                "mobile": {
+                  "athletes": {
+                    "href": "http://m.espn.go.com/golf/playercard?playerId=1349&ex_cid=espnapi_public"
+                  }
+                }
+              }
+            },
+            {
+              "id": 1442,
+              "firstName": "Marcus",
+              "lastName": "Both",
+              "fullName": "Marcus Both",
+              "displayName": "Marcus Both",
+              "shortName": "M. Both",
+              "links": {
+                "api": {
+                  "athletes": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/1442"
+                  },
+                  "news": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/1442/news"
+                  },
+                  "notes": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/1442/news/notes"
+                  }
+                },
+                "web": {
+                  "athletes": {
+                    "href": "http://espn.go.com/golf/players/profile?playerId=1442&ex_cid=espnapi_public"
+                  }
+                },
+                "mobile": {
+                  "athletes": {
+                    "href": "http://m.espn.go.com/golf/playercard?playerId=1442&ex_cid=espnapi_public"
+                  }
+                }
+              }
+            },
+            {
+              "id": 1443,
+              "firstName": "Gregory",
+              "lastName": "Bourdy",
+              "fullName": "Gregory Bourdy",
+              "displayName": "Gregory Bourdy",
+              "shortName": "G. Bourdy",
+              "links": {
+                "api": {
+                  "athletes": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/1443"
+                  },
+                  "news": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/1443/news"
+                  },
+                  "notes": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/1443/news/notes"
+                  }
+                },
+                "web": {
+                  "athletes": {
+                    "href": "http://espn.go.com/golf/players/profile?playerId=1443&ex_cid=espnapi_public"
+                  }
+                },
+                "mobile": {
+                  "athletes": {
+                    "href": "http://m.espn.go.com/golf/playercard?playerId=1443&ex_cid=espnapi_public"
+                  }
+                }
+              }
+            },
+            {
+              "id": 1112,
+              "firstName": "Steven",
+              "lastName": "Bowditch",
+              "fullName": "Steven Bowditch",
+              "displayName": "Steven Bowditch",
+              "shortName": "S. Bowditch",
+              "links": {
+                "api": {
+                  "athletes": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/1112"
+                  },
+                  "news": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/1112/news"
+                  },
+                  "notes": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/1112/news/notes"
+                  }
+                },
+                "web": {
+                  "athletes": {
+                    "href": "http://espn.go.com/golf/players/profile?playerId=1112&ex_cid=espnapi_public"
+                  }
+                },
+                "mobile": {
+                  "athletes": {
+                    "href": "http://m.espn.go.com/golf/playercard?playerId=1112&ex_cid=espnapi_public"
+                  }
+                }
+              }
+            },
+            {
+              "id": 3820,
+              "firstName": "Gary",
+              "lastName": "Boyd",
+              "fullName": "Gary Boyd",
+              "displayName": "Gary Boyd",
+              "shortName": "G. Boyd",
+              "links": {
+                "api": {
+                  "athletes": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/3820"
+                  },
+                  "news": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/3820/news"
+                  },
+                  "notes": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/3820/news/notes"
+                  }
+                },
+                "web": {
+                  "athletes": {
+                    "href": "http://espn.go.com/golf/players/profile?playerId=3820&ex_cid=espnapi_public"
+                  }
+                },
+                "mobile": {
+                  "athletes": {
+                    "href": "http://m.espn.go.com/golf/playercard?playerId=3820&ex_cid=espnapi_public"
+                  }
+                }
+              }
+            },
+            {
+              "id": 4513,
+              "firstName": "Keegan",
+              "lastName": "Bradley",
+              "fullName": "Keegan Bradley",
+              "displayName": "Keegan Bradley",
+              "shortName": "K. Bradley",
+              "links": {
+                "api": {
+                  "athletes": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/4513"
+                  },
+                  "news": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/4513/news"
+                  },
+                  "notes": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/4513/news/notes"
+                  }
+                },
+                "web": {
+                  "athletes": {
+                    "href": "http://espn.go.com/golf/players/profile?playerId=4513&ex_cid=espnapi_public"
+                  }
+                },
+                "mobile": {
+                  "athletes": {
+                    "href": "http://m.espn.go.com/golf/playercard?playerId=4513&ex_cid=espnapi_public"
+                  }
+                }
+              }
+            },
+            {
+              "id": 49,
+              "firstName": "Michael",
+              "lastName": "Bradley",
+              "fullName": "Michael Bradley",
+              "displayName": "Michael Bradley",
+              "shortName": "M. Bradley",
+              "links": {
+                "api": {
+                  "athletes": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/49"
+                  },
+                  "news": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/49/news"
+                  },
+                  "notes": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/49/news/notes"
+                  }
+                },
+                "web": {
+                  "athletes": {
+                    "href": "http://espn.go.com/golf/players/profile?playerId=49&ex_cid=espnapi_public"
+                  }
+                },
+                "mobile": {
+                  "athletes": {
+                    "href": "http://m.espn.go.com/golf/playercard?playerId=49&ex_cid=espnapi_public"
+                  }
+                }
+              }
+            },
+            {
+              "id": 3538,
+              "firstName": "David",
+              "lastName": "Bradshaw",
+              "fullName": "David Bradshaw",
+              "displayName": "David Bradshaw",
+              "shortName": "D. Bradshaw",
+              "links": {
+                "api": {
+                  "athletes": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/3538"
+                  },
+                  "news": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/3538/news"
+                  },
+                  "notes": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/3538/news/notes"
+                  }
+                },
+                "web": {
+                  "athletes": {
+                    "href": "http://espn.go.com/golf/players/profile?playerId=3538&ex_cid=espnapi_public"
+                  }
+                },
+                "mobile": {
+                  "athletes": {
+                    "href": "http://m.espn.go.com/golf/playercard?playerId=3538&ex_cid=espnapi_public"
+                  }
+                }
+              }
+            },
+            {
+              "id": 1300,
+              "firstName": "Paul",
+              "lastName": "Bradshaw",
+              "fullName": "Paul Bradshaw",
+              "displayName": "Paul Bradshaw",
+              "shortName": "P. Bradshaw",
+              "links": {
+                "api": {
+                  "athletes": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/1300"
+                  },
+                  "news": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/1300/news"
+                  },
+                  "notes": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/1300/news/notes"
+                  }
+                },
+                "web": {
+                  "athletes": {
+                    "href": "http://espn.go.com/golf/players/profile?playerId=1300&ex_cid=espnapi_public"
+                  }
+                },
+                "mobile": {
+                  "athletes": {
+                    "href": "http://m.espn.go.com/golf/playercard?playerId=1300&ex_cid=espnapi_public"
+                  }
+                }
+              }
+            },
+            {
+              "id": 6146,
+              "firstName": "Christian",
+              "lastName": "Brand",
+              "fullName": "Christian Brand",
+              "displayName": "Christian Brand",
+              "shortName": "C. Brand",
+              "links": {
+                "api": {
+                  "athletes": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/6146"
+                  },
+                  "news": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/6146/news"
+                  },
+                  "notes": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/6146/news/notes"
+                  }
+                },
+                "web": {
+                  "athletes": {
+                    "href": "http://espn.go.com/golf/players/profile?playerId=6146&ex_cid=espnapi_public"
+                  }
+                },
+                "mobile": {
+                  "athletes": {
+                    "href": "http://m.espn.go.com/golf/playercard?playerId=6146&ex_cid=espnapi_public"
+                  }
+                }
+              }
+            },
+            {
+              "id": 506,
+              "firstName": "Markus",
+              "lastName": "Brier",
+              "fullName": "Markus Brier",
+              "displayName": "Markus Brier",
+              "shortName": "M. Brier",
+              "links": {
+                "api": {
+                  "athletes": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/506"
+                  },
+                  "news": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/506/news"
+                  },
+                  "notes": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/506/news/notes"
+                  }
+                },
+                "web": {
+                  "athletes": {
+                    "href": "http://espn.go.com/golf/players/profile?playerId=506&ex_cid=espnapi_public"
+                  }
+                },
+                "mobile": {
+                  "athletes": {
+                    "href": "http://m.espn.go.com/golf/playercard?playerId=506&ex_cid=espnapi_public"
+                  }
+                }
+              }
+            },
+            {
+              "id": 1280,
+              "firstName": "Paul",
+              "lastName": "Broadhurst",
+              "fullName": "Paul Broadhurst",
+              "displayName": "Paul Broadhurst",
+              "shortName": "P. Broadhurst",
+              "links": {
+                "api": {
+                  "athletes": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/1280"
+                  },
+                  "news": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/1280/news"
+                  },
+                  "notes": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/1280/news/notes"
+                  }
+                },
+                "web": {
+                  "athletes": {
+                    "href": "http://espn.go.com/golf/players/profile?playerId=1280&ex_cid=espnapi_public"
+                  }
+                },
+                "mobile": {
+                  "athletes": {
+                    "href": "http://m.espn.go.com/golf/playercard?playerId=1280&ex_cid=espnapi_public"
+                  }
+                }
+              }
+            },
+            {
+              "id": 4635,
+              "firstName": "Josh",
+              "lastName": "Brock",
+              "fullName": "Josh Brock",
+              "displayName": "Josh Brock",
+              "shortName": "J. Brock",
+              "links": {
+                "api": {
+                  "athletes": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/4635"
+                  },
+                  "news": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/4635/news"
+                  },
+                  "notes": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/4635/news/notes"
+                  }
+                },
+                "web": {
+                  "athletes": {
+                    "href": "http://espn.go.com/golf/players/profile?playerId=4635&ex_cid=espnapi_public"
+                  }
+                },
+                "mobile": {
+                  "athletes": {
+                    "href": "http://m.espn.go.com/golf/playercard?playerId=4635&ex_cid=espnapi_public"
+                  }
+                }
+              }
+            },
+            {
+              "id": 57,
+              "firstName": "Billy Ray",
+              "lastName": "Brown",
+              "fullName": "Billy Ray Brown",
+              "displayName": "Billy Ray Brown",
+              "shortName": "B. Brown",
+              "links": {
+                "api": {
+                  "athletes": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/57"
+                  },
+                  "news": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/57/news"
+                  },
+                  "notes": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/57/news/notes"
+                  }
+                },
+                "web": {
+                  "athletes": {
+                    "href": "http://espn.go.com/golf/players/profile?playerId=57&ex_cid=espnapi_public"
+                  }
+                },
+                "mobile": {
+                  "athletes": {
+                    "href": "http://m.espn.go.com/golf/playercard?playerId=57&ex_cid=espnapi_public"
+                  }
+                }
+              }
+            },
+            {
+              "id": 4016,
+              "firstName": "Brandon",
+              "lastName": "Brown",
+              "fullName": "Brandon Brown",
+              "displayName": "Brandon Brown",
+              "shortName": "B. Brown",
+              "links": {
+                "api": {
+                  "athletes": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/4016"
+                  },
+                  "news": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/4016/news"
+                  },
+                  "notes": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/4016/news/notes"
+                  }
+                },
+                "web": {
+                  "athletes": {
+                    "href": "http://espn.go.com/golf/players/profile?playerId=4016&ex_cid=espnapi_public"
+                  }
+                },
+                "mobile": {
+                  "athletes": {
+                    "href": "http://m.espn.go.com/golf/playercard?playerId=4016&ex_cid=espnapi_public"
+                  }
+                }
+              }
+            },
+            {
+              "id": 4033,
+              "firstName": "Mark",
+              "lastName": "Brown",
+              "fullName": "Mark Brown",
+              "displayName": "Mark Brown",
+              "shortName": "M. Brown",
+              "links": {
+                "api": {
+                  "athletes": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/4033"
+                  },
+                  "news": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/4033/news"
+                  },
+                  "notes": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/4033/news/notes"
+                  }
+                },
+                "web": {
+                  "athletes": {
+                    "href": "http://espn.go.com/golf/players/profile?playerId=4033&ex_cid=espnapi_public"
+                  }
+                },
+                "mobile": {
+                  "athletes": {
+                    "href": "http://m.espn.go.com/golf/playercard?playerId=4033&ex_cid=espnapi_public"
+                  }
+                }
+              }
+            },
+            {
+              "id": 4591,
+              "firstName": "Scott",
+              "lastName": "Brown",
+              "fullName": "Scott Brown",
+              "displayName": "Scott Brown",
+              "shortName": "S. Brown",
+              "links": {
+                "api": {
+                  "athletes": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/4591"
+                  },
+                  "news": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/4591/news"
+                  },
+                  "notes": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/4591/news/notes"
+                  }
+                },
+                "web": {
+                  "athletes": {
+                    "href": "http://espn.go.com/golf/players/profile?playerId=4591&ex_cid=espnapi_public"
+                  }
+                },
+                "mobile": {
+                  "athletes": {
+                    "href": "http://m.espn.go.com/golf/playercard?playerId=4591&ex_cid=espnapi_public"
+                  }
+                }
+              }
+            },
+            {
+              "id": 59,
+              "firstName": "Bart",
+              "lastName": "Bryant",
+              "fullName": "Bart Bryant",
+              "displayName": "Bart Bryant",
+              "shortName": "B. Bryant",
+              "links": {
+                "api": {
+                  "athletes": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/59"
+                  },
+                  "news": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/59/news"
+                  },
+                  "notes": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/59/news/notes"
+                  }
+                },
+                "web": {
+                  "athletes": {
+                    "href": "http://espn.go.com/golf/players/profile?playerId=59&ex_cid=espnapi_public"
+                  }
+                },
+                "mobile": {
+                  "athletes": {
+                    "href": "http://m.espn.go.com/golf/playercard?playerId=59&ex_cid=espnapi_public"
+                  }
+                }
+              }
+            },
+            {
+              "id": 1982,
+              "firstName": "Dan",
+              "lastName": "Buchner",
+              "fullName": "Dan Buchner",
+              "displayName": "Dan Buchner",
+              "shortName": "D. Buchner",
+              "links": {
+                "api": {
+                  "athletes": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/1982"
+                  },
+                  "news": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/1982/news"
+                  },
+                  "notes": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/1982/news/notes"
+                  }
+                },
+                "web": {
+                  "athletes": {
+                    "href": "http://espn.go.com/golf/players/profile?playerId=1982&ex_cid=espnapi_public"
+                  }
+                },
+                "mobile": {
+                  "athletes": {
+                    "href": "http://m.espn.go.com/golf/playercard?playerId=1982&ex_cid=espnapi_public"
+                  }
+                }
+              }
+            },
+            {
+              "id": 5583,
+              "firstName": "Dave",
+              "lastName": "Bunker",
+              "fullName": "Dave Bunker",
+              "displayName": "Dave Bunker",
+              "shortName": "D. Bunker",
+              "links": {
+                "api": {
+                  "athletes": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/5583"
+                  },
+                  "news": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/5583/news"
+                  },
+                  "notes": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/5583/news/notes"
+                  }
+                },
+                "web": {
+                  "athletes": {
+                    "href": "http://espn.go.com/golf/players/profile?playerId=5583&ex_cid=espnapi_public"
+                  }
+                },
+                "mobile": {
+                  "athletes": {
+                    "href": "http://m.espn.go.com/golf/playercard?playerId=5583&ex_cid=espnapi_public"
+                  }
+                }
+              }
+            },
+            {
+              "id": 61,
+              "firstName": "Bob",
+              "lastName": "Burns",
+              "fullName": "Bob Burns",
+              "displayName": "Bob Burns",
+              "shortName": "B. Burns",
+              "links": {
+                "api": {
+                  "athletes": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/61"
+                  },
+                  "news": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/61/news"
+                  },
+                  "notes": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/61/news/notes"
+                  }
+                },
+                "web": {
+                  "athletes": {
+                    "href": "http://espn.go.com/golf/players/profile?playerId=61&ex_cid=espnapi_public"
+                  }
+                },
+                "mobile": {
+                  "athletes": {
+                    "href": "http://m.espn.go.com/golf/playercard?playerId=61&ex_cid=espnapi_public"
+                  }
+                }
+              }
+            },
+            {
+              "id": 1145,
+              "firstName": "Kevin",
+              "lastName": "Burton",
+              "fullName": "Kevin Burton",
+              "displayName": "Kevin Burton",
+              "shortName": "K. Burton",
+              "links": {
+                "api": {
+                  "athletes": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/1145"
+                  },
+                  "news": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/1145/news"
+                  },
+                  "notes": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/1145/news/notes"
+                  }
+                },
+                "web": {
+                  "athletes": {
+                    "href": "http://espn.go.com/golf/players/profile?playerId=1145&ex_cid=espnapi_public"
+                  }
+                },
+                "mobile": {
+                  "athletes": {
+                    "href": "http://m.espn.go.com/golf/playercard?playerId=1145&ex_cid=espnapi_public"
+                  }
+                }
+              }
+            },
+            {
+              "id": 1445,
+              "firstName": "Andrew",
+              "lastName": "Butterfield",
+              "fullName": "Andrew Butterfield",
+              "displayName": "Andrew Butterfield",
+              "shortName": "A. Butterfield",
+              "links": {
+                "api": {
+                  "athletes": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/1445"
+                  },
+                  "news": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/1445/news"
+                  },
+                  "notes": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/1445/news/notes"
+                  }
+                },
+                "web": {
+                  "athletes": {
+                    "href": "http://espn.go.com/golf/players/profile?playerId=1445&ex_cid=espnapi_public"
+                  }
+                },
+                "mobile": {
+                  "athletes": {
+                    "href": "http://m.espn.go.com/golf/playercard?playerId=1445&ex_cid=espnapi_public"
+                  }
+                }
+              }
+            },
+            {
+              "id": 508,
+              "firstName": "Jonathan",
+              "lastName": "Byrd",
+              "fullName": "Jonathan Byrd",
+              "displayName": "Jonathan Byrd",
+              "shortName": "J. Byrd",
+              "links": {
+                "api": {
+                  "athletes": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/508"
+                  },
+                  "news": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/508/news"
+                  },
+                  "notes": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/508/news/notes"
+                  }
+                },
+                "web": {
+                  "athletes": {
+                    "href": "http://espn.go.com/golf/players/profile?playerId=508&ex_cid=espnapi_public"
+                  }
+                },
+                "mobile": {
+                  "athletes": {
+                    "href": "http://m.espn.go.com/golf/playercard?playerId=508&ex_cid=espnapi_public"
+                  }
+                }
+              }
+            },
+            {
+              "id": 6743,
+              "firstName": "David",
+              "lastName": "Byrne",
+              "fullName": "David Byrne",
+              "displayName": "David Byrne",
+              "shortName": "D. Byrne",
+              "links": {
+                "api": {
+                  "athletes": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/6743"
+                  },
+                  "news": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/6743/news"
+                  },
+                  "notes": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/6743/news/notes"
+                  }
+                },
+                "web": {
+                  "athletes": {
+                    "href": "http://espn.go.com/golf/players/profile?playerId=6743&ex_cid=espnapi_public"
+                  }
+                },
+                "mobile": {
+                  "athletes": {
+                    "href": "http://m.espn.go.com/golf/playercard?playerId=6743&ex_cid=espnapi_public"
+                  }
+                }
+              }
+            },
+            {
+              "id": 65,
+              "firstName": "Angel",
+              "lastName": "Cabrera",
+              "fullName": "Angel Cabrera",
+              "displayName": "Angel Cabrera",
+              "shortName": "A. Cabrera",
+              "links": {
+                "api": {
+                  "athletes": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/65"
+                  },
+                  "news": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/65/news"
+                  },
+                  "notes": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/65/news/notes"
+                  }
+                },
+                "web": {
+                  "athletes": {
+                    "href": "http://espn.go.com/golf/players/profile?playerId=65&ex_cid=espnapi_public"
+                  }
+                },
+                "mobile": {
+                  "athletes": {
+                    "href": "http://m.espn.go.com/golf/playercard?playerId=65&ex_cid=espnapi_public"
+                  }
+                }
+              }
+            },
+            {
+              "id": 4690,
+              "firstName": "Federico",
+              "lastName": "Cabrera",
+              "fullName": "Federico Cabrera",
+              "displayName": "Federico Cabrera",
+              "shortName": "F. Cabrera",
+              "links": {
+                "api": {
+                  "athletes": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/4690"
+                  },
+                  "news": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/4690/news"
+                  },
+                  "notes": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/4690/news/notes"
+                  }
+                },
+                "web": {
+                  "athletes": {
+                    "href": "http://espn.go.com/golf/players/profile?playerId=4690&ex_cid=espnapi_public"
+                  }
+                },
+                "mobile": {
+                  "athletes": {
+                    "href": "http://m.espn.go.com/golf/playercard?playerId=4690&ex_cid=espnapi_public"
+                  }
+                }
+              }
+            },
+            {
+              "id": 4321,
+              "firstName": "Rafael",
+              "lastName": "Cabrera Bello",
+              "fullName": "Rafael Cabrera Bello",
+              "displayName": "Rafael Cabrera Bello",
+              "shortName": "R. Cabrera Bello",
+              "links": {
+                "api": {
+                  "athletes": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/4321"
+                  },
+                  "news": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/4321/news"
+                  },
+                  "notes": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/4321/news/notes"
+                  }
+                },
+                "web": {
+                  "athletes": {
+                    "href": "http://espn.go.com/golf/players/profile?playerId=4321&ex_cid=espnapi_public"
+                  }
+                },
+                "mobile": {
+                  "athletes": {
+                    "href": "http://m.espn.go.com/golf/playercard?playerId=4321&ex_cid=espnapi_public"
+                  }
+                }
+              }
+            },
+            {
+              "id": 597,
+              "firstName": "Brian",
+              "lastName": "Cairns",
+              "fullName": "Brian Cairns",
+              "displayName": "Brian Cairns",
+              "shortName": "B. Cairns",
+              "links": {
+                "api": {
+                  "athletes": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/597"
+                  },
+                  "news": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/597/news"
+                  },
+                  "notes": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/597/news/notes"
+                  }
+                },
+                "web": {
+                  "athletes": {
+                    "href": "http://espn.go.com/golf/players/profile?playerId=597&ex_cid=espnapi_public"
+                  }
+                },
+                "mobile": {
+                  "athletes": {
+                    "href": "http://m.espn.go.com/golf/playercard?playerId=597&ex_cid=espnapi_public"
+                  }
+                }
+              }
+            },
+            {
+              "id": 4077,
+              "firstName": "Jonathan",
+              "lastName": "Caldwell",
+              "fullName": "Jonathan Caldwell",
+              "displayName": "Jonathan Caldwell",
+              "shortName": "J. Caldwell",
+              "links": {
+                "api": {
+                  "athletes": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/4077"
+                  },
+                  "news": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/4077/news"
+                  },
+                  "notes": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/4077/news/notes"
+                  }
+                },
+                "web": {
+                  "athletes": {
+                    "href": "http://espn.go.com/golf/players/profile?playerId=4077&ex_cid=espnapi_public"
+                  }
+                },
+                "mobile": {
+                  "athletes": {
+                    "href": "http://m.espn.go.com/golf/playercard?playerId=4077&ex_cid=espnapi_public"
+                  }
+                }
+              }
+            },
+            {
+              "id": 6672,
+              "firstName": "Robert",
+              "lastName": "Calvesbert",
+              "fullName": "Robert Calvesbert",
+              "displayName": "Robert Calvesbert",
+              "shortName": "R. Calvesbert",
+              "links": {
+                "api": {
+                  "athletes": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/6672"
+                  },
+                  "news": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/6672/news"
+                  },
+                  "notes": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/6672/news/notes"
+                  }
+                },
+                "web": {
+                  "athletes": {
+                    "href": "http://espn.go.com/golf/players/profile?playerId=6672&ex_cid=espnapi_public"
+                  }
+                },
+                "mobile": {
+                  "athletes": {
+                    "href": "http://m.espn.go.com/golf/playercard?playerId=6672&ex_cid=espnapi_public"
+                  }
+                }
+              }
+            },
+            {
+              "id": 68,
+              "firstName": "Chad",
+              "lastName": "Campbell",
+              "fullName": "Chad Campbell",
+              "displayName": "Chad Campbell",
+              "shortName": "C. Campbell",
+              "links": {
+                "api": {
+                  "athletes": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/68"
+                  },
+                  "news": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/68/news"
+                  },
+                  "notes": {
+                    "href": "http://api.espn.com/v1/sports/golf/athletes/68/news/notes"
+                  }
+                },
+                "web": {
+                  "athletes": {
+                    "href": "http://espn.go.com/golf/players/profile?playerId=68&ex_cid=espnapi_public"
+                  }
+                },
+                "mobile": {
+                  "athletes": {
+                    "href": "http://m.espn.go.com/golf/playercard?playerId=68&ex_cid=espnapi_public"
+                  }
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "resultsOffset": 51,
+  "resultsLimit": 50,
+  "resultsCount": 938,
+  "timestamp": "2013-01-16T15:47:22Z",
+  "status": "success"
+}
+    Type: Object
